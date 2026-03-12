@@ -211,7 +211,7 @@ DreamPoeBot's core game state is instantly accessible via global static entry po
 | `LokiPoe.InGameState.*` | Stash, inventory, skills, chat, UI panels |
 | `LokiPoe.ObjectManager.*` | Queries returning **instances** of entities, monsters, items |
 | `BotManager.*` | Bot state, current bot, enabled plugins |
-| `ExilePather.*` | Static pathfinding calculations |
+| `ExilePather.*` | Static pathfinding calculations and navigation |
 | `PluginManager.*` | Enabled plugins, plugin lookup |
 
 If you are reading existing DreamPoeBot plugin source code (e.g., FollowBot), the same `LokiPoe.*` and `BotManager.*` references work identically in MCP scripts.

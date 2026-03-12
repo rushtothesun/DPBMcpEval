@@ -1,0 +1,15 @@
+{
+    "AssemblyName": "McpEval",
+    "FileList": [
+        "McpEvalPlugin.cs",
+        "McpEvalSettings.cs",
+        "McpHttpServer.cs",
+        "ScriptCompiler.cs",
+        "McpEvalGui.xaml",
+        "McpEvalGui.xaml.cs",
+        "McpEvalGui.baml",
+        "McpEvalGui.g.cs"
+    ],
+    "Dependencies": [],
+    "References": []
+}
